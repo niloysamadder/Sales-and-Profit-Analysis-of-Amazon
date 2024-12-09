@@ -1,1 +1,1 @@
-# Sales-and-Profit-Analysis-of-Amazon
+# Sales and Profit Analysis of Amazon
